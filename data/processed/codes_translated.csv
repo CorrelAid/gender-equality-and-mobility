@@ -1,0 +1,367 @@
+VARIABLE,ESPECIFICACIÓN,ESPEC_en,VALORES,CODE,VALUE,VALUE_en
+ID_HOGAR,Identificador del hogar,Home ID,,,,
+CODMUNI,Código de municipio,Municipality code,,,,
+NOMMUNI,Nombre de municipio,Municipality name,,,,
+CODPROV,Código de provincia,Province code,,,,
+NOMPROV,Nombre de provincia,Province name,,,,
+ZT1259,Zona 1259,1259 area,,,,
+CZ208,Zona 208,zone 208,,,,
+ELE_HOGAR_NUEVO,Elevador del hogar,Lift home,,,,
+TIPO_ENCUESTA,Tipo de encuesta,Type of survey,,,,
+A1PER,¿Podría decirme cuántas personas viven con usted en el hogar incluyéndose usted mismo?,Could you tell me how many people live with you at home including yourself?,,,,
+A2PER4,¿Podría decirme cuántas personas tienen 4 o más años?,Could you tell me how many people have 4 or more years?,,,,
+B1NVE,Nº total de vehículos en el hogar,Total number of vehicles in the household,,,,
+V1B11TIPO,Vehículo 1. B.1.1. Tipo,1. Vehicle B.1.1. Type,1.       Turismo,1,       Turismo,tourism
+V1B11TIPO,Vehículo 1. B.1.1. Tipo,1. Vehicle B.1.1. Type,2.       Moto/Ciclomotor,2,       Moto/Ciclomotor,Scooter / Moped
+V1B11TIPO,Vehículo 1. B.1.1. Tipo,1. Vehicle B.1.1. Type,3.       Furgoneta,3,       Furgoneta,Van
+V1B11TIPO,Vehículo 1. B.1.1. Tipo,1. Vehicle B.1.1. Type,4.       Camión,4,       Camión,Truck
+V1B11TIPO,Vehículo 1. B.1.1. Tipo,1. Vehicle B.1.1. Type,5.     Otro,5,Otro,Other
+V1B12CARB,Vehículo 1. B.1.1. Carburante,1. Vehicle B.1.1. Fuel,1.       Híbrido,1,       Híbrido,Hybrid
+V1B12CARB,Vehículo 1. B.1.1. Carburante,1. Vehicle B.1.1. Fuel,2.       Eléctrico,2,       Eléctrico,Electric
+V1B12CARB,Vehículo 1. B.1.1. Carburante,1. Vehicle B.1.1. Fuel,"3.       Otro (gasolina, diesel, etc.)",3,"       Otro (gasolina, diesel, etc.)","Other (gasoline, diesel, etc.)"
+V1B13EST,Vehículo 1. B.1.1. Estacionamiento residencia,1. Vehicle B.1.1. parking residence,"1.     En la calle, libre no regulado",1,"     En la calle, libre no regulado","On the street, free unregulated"
+V1B13EST,Vehículo 1. B.1.1. Estacionamiento residencia,1. Vehicle B.1.1. parking residence,"2.     En la calle, libre regulado (SER, ORA, zona azul, zona verde)",2,"     En la calle, libre regulado (SER, ORA, zona azul, zona verde)","On the street, free regulated (SER, ORA, blue, green area)"
+V1B13EST,Vehículo 1. B.1.1. Estacionamiento residencia,1. Vehicle B.1.1. parking residence,3.     Aparcamiento propio,3,     Aparcamiento propio,own parking
+V1B13EST,Vehículo 1. B.1.1. Estacionamiento residencia,1. Vehicle B.1.1. parking residence,4.     Parking residentes,4,     Parking residentes,Parking residents
+V1B13EST,Vehículo 1. B.1.1. Estacionamiento residencia,1. Vehicle B.1.1. parking residence,5.     Alquilado,5,     Alquilado,Rented
+V1B13EST,Vehículo 1. B.1.1. Estacionamiento residencia,1. Vehicle B.1.1. parking residence,6.     Plaza reservada a minusválidos,6,     Plaza reservada a minusválidos,Space reserved for the disabled
+V1B13EST,Vehículo 1. B.1.1. Estacionamiento residencia,1. Vehicle B.1.1. parking residence,7.     Otros,7,     Otros,Others
+V2B11TIPO1,Vehículo 2. B.1. Tipo,Vehicle 2. B.1. Type,1.       Turismo,1,       Turismo,tourism
+V2B11TIPO1,Vehículo 2. B.1. Tipo,Vehicle 2. B.1. Type,2.       Moto/Ciclomotor,2,       Moto/Ciclomotor,Scooter / Moped
+V2B11TIPO1,Vehículo 2. B.1. Tipo,Vehicle 2. B.1. Type,3.       Furgoneta,3,       Furgoneta,Van
+V2B11TIPO1,Vehículo 2. B.1. Tipo,Vehicle 2. B.1. Type,4.       Camión,4,       Camión,Truck
+V2B11TIPO1,Vehículo 2. B.1. Tipo,Vehicle 2. B.1. Type,5.     Otro,5,Otro,Other
+V2B12CARB1,Vehículo 2. B.1.1. Carburante,Vehicle 2. B.1.1. Fuel,1.       Híbrido,1,       Híbrido,Hybrid
+V2B12CARB1,Vehículo 2. B.1.1. Carburante,Vehicle 2. B.1.1. Fuel,2.       Eléctrico,2,       Eléctrico,Electric
+V2B12CARB1,Vehículo 2. B.1.1. Carburante,Vehicle 2. B.1.1. Fuel,"3.       Otro (gasolina, diesel, etc.)",3,"       Otro (gasolina, diesel, etc.)","Other (gasoline, diesel, etc.)"
+V2B13EST1,Vehículo 2. B.1.1. Estacionamiento residencia,Vehicle 2. B.1.1. parking residence,"1.     En la calle, libre no regulado",1,"     En la calle, libre no regulado","On the street, free unregulated"
+V2B13EST1,Vehículo 2. B.1.1. Estacionamiento residencia,Vehicle 2. B.1.1. parking residence,"2.     En la calle, libre regulado (SER, ORA, zona azul, zona verde)",2,"     En la calle, libre regulado (SER, ORA, zona azul, zona verde)","On the street, free regulated (SER, ORA, blue, green area)"
+V2B13EST1,Vehículo 2. B.1.1. Estacionamiento residencia,Vehicle 2. B.1.1. parking residence,3.     Aparcamiento propio,3,     Aparcamiento propio,own parking
+V2B13EST1,Vehículo 2. B.1.1. Estacionamiento residencia,Vehicle 2. B.1.1. parking residence,4.     Parking residentes,4,     Parking residentes,Parking residents
+V2B13EST1,Vehículo 2. B.1.1. Estacionamiento residencia,Vehicle 2. B.1.1. parking residence,5.     Alquilado,5,     Alquilado,Rented
+V2B13EST1,Vehículo 2. B.1.1. Estacionamiento residencia,Vehicle 2. B.1.1. parking residence,6.     Plaza reservada a minusválidos,6,     Plaza reservada a minusválidos,Space reserved for the disabled
+V2B13EST1,Vehículo 2. B.1.1. Estacionamiento residencia,Vehicle 2. B.1.1. parking residence,7.     Otros,7,     Otros,Others
+V3B11TIPO1,Vehículo 3. B.1.1. Tipo,3. B.1.1 vehicle. Type,1.       Turismo,1,       Turismo,tourism
+V3B11TIPO1,Vehículo 3. B.1.1. Tipo,3. B.1.1 vehicle. Type,2.       Moto/Ciclomotor,2,       Moto/Ciclomotor,Scooter / Moped
+V3B11TIPO1,Vehículo 3. B.1.1. Tipo,3. B.1.1 vehicle. Type,3.       Furgoneta,3,       Furgoneta,Van
+V3B11TIPO1,Vehículo 3. B.1.1. Tipo,3. B.1.1 vehicle. Type,4.       Camión,4,       Camión,Truck
+V3B11TIPO1,Vehículo 3. B.1.1. Tipo,3. B.1.1 vehicle. Type,5.     Otro,5,Otro,Other
+V3B12CARB1,Vehículo 3. B.1. Carburante,3. B.1 vehicle. Fuel,1.       Híbrido,1,       Híbrido,Hybrid
+V3B12CARB1,Vehículo 3. B.1. Carburante,3. B.1 vehicle. Fuel,2.       Eléctrico,2,       Eléctrico,Electric
+V3B12CARB1,Vehículo 3. B.1. Carburante,3. B.1 vehicle. Fuel,"3.       Otro (gasolina, diesel, etc.)",3,"       Otro (gasolina, diesel, etc.)","Other (gasoline, diesel, etc.)"
+V3B13EST1,Vehículo 3. B.1.1. Estacionamiento residencia,3. B.1.1 vehicle. parking residence,"1.     En la calle, libre no regulado",1,"     En la calle, libre no regulado","On the street, free unregulated"
+V3B13EST1,Vehículo 3. B.1.1. Estacionamiento residencia,3. B.1.1 vehicle. parking residence,"2.     En la calle, libre regulado (SER, ORA, zona azul, zona verde)",2,"     En la calle, libre regulado (SER, ORA, zona azul, zona verde)","On the street, free regulated (SER, ORA, blue, green area)"
+V3B13EST1,Vehículo 3. B.1.1. Estacionamiento residencia,3. B.1.1 vehicle. parking residence,3.     Aparcamiento propio,3,     Aparcamiento propio,own parking
+V3B13EST1,Vehículo 3. B.1.1. Estacionamiento residencia,3. B.1.1 vehicle. parking residence,4.     Parking residentes,4,     Parking residentes,Parking residents
+V3B13EST1,Vehículo 3. B.1.1. Estacionamiento residencia,3. B.1.1 vehicle. parking residence,5.     Alquilado,5,     Alquilado,Rented
+V3B13EST1,Vehículo 3. B.1.1. Estacionamiento residencia,3. B.1.1 vehicle. parking residence,6.     Plaza reservada a minusválidos,6,     Plaza reservada a minusválidos,Space reserved for the disabled
+V3B13EST1,Vehículo 3. B.1.1. Estacionamiento residencia,3. B.1.1 vehicle. parking residence,7.     Otros,7,     Otros,Others
+V4B11TIPO1,Vehículo 4. B.1.1. Tipo,4. B.1.1 vehicle. Type,1.       Turismo,1,       Turismo,tourism
+V4B11TIPO1,Vehículo 4. B.1.1. Tipo,4. B.1.1 vehicle. Type,2.       Moto/Ciclomotor,2,       Moto/Ciclomotor,Scooter / Moped
+V4B11TIPO1,Vehículo 4. B.1.1. Tipo,4. B.1.1 vehicle. Type,3.       Furgoneta,3,       Furgoneta,Van
+V4B11TIPO1,Vehículo 4. B.1.1. Tipo,4. B.1.1 vehicle. Type,4.       Camión,4,       Camión,Truck
+V4B11TIPO1,Vehículo 4. B.1.1. Tipo,4. B.1.1 vehicle. Type,5.     Otro,5,Otro,Other
+V4B12CARB1,Vehículo 4. B.1.1. Carburante,4. B.1.1 vehicle. Fuel,1.       Híbrido,1,       Híbrido,Hybrid
+V4B12CARB1,Vehículo 4. B.1.1. Carburante,4. B.1.1 vehicle. Fuel,2.       Eléctrico,2,       Eléctrico,Electric
+V4B12CARB1,Vehículo 4. B.1.1. Carburante,4. B.1.1 vehicle. Fuel,"3.       Otro (gasolina, diesel, etc.)",3,"       Otro (gasolina, diesel, etc.)","Other (gasoline, diesel, etc.)"
+V4B13EST1,Vehículo 4. B.1. Nº total de vehículos en el hogar,Vehicle 4. B.1. Total number of vehicles in the household,"1.     En la calle, libre no regulado",1,"     En la calle, libre no regulado","On the street, free unregulated"
+V4B13EST1,Vehículo 4. B.1. Nº total de vehículos en el hogar,Vehicle 4. B.1. Total number of vehicles in the household,"2.     En la calle, libre regulado (SER, ORA, zona azul, zona verde)",2,"     En la calle, libre regulado (SER, ORA, zona azul, zona verde)","On the street, free regulated (SER, ORA, blue, green area)"
+V4B13EST1,Vehículo 4. B.1. Nº total de vehículos en el hogar,Vehicle 4. B.1. Total number of vehicles in the household,3.     Aparcamiento propio,3,     Aparcamiento propio,own parking
+V4B13EST1,Vehículo 4. B.1. Nº total de vehículos en el hogar,Vehicle 4. B.1. Total number of vehicles in the household,4.     Parking residentes,4,     Parking residentes,Parking residents
+V4B13EST1,Vehículo 4. B.1. Nº total de vehículos en el hogar,Vehicle 4. B.1. Total number of vehicles in the household,5.     Alquilado,5,     Alquilado,Rented
+V4B13EST1,Vehículo 4. B.1. Nº total de vehículos en el hogar,Vehicle 4. B.1. Total number of vehicles in the household,6.     Plaza reservada a minusválidos,6,     Plaza reservada a minusválidos,Space reserved for the disabled
+V4B13EST1,Vehículo 4. B.1. Nº total de vehículos en el hogar,Vehicle 4. B.1. Total number of vehicles in the household,7.     Otros,7,     Otros,Others
+V5B11TIPO1,Vehículo 5. B.1.1. Tipo,5. Vehicle B.1.1. Type,1.       Turismo,1,       Turismo,tourism
+V5B11TIPO1,Vehículo 5. B.1.1. Tipo,5. Vehicle B.1.1. Type,2.       Moto/Ciclomotor,2,       Moto/Ciclomotor,Scooter / Moped
+V5B11TIPO1,Vehículo 5. B.1.1. Tipo,5. Vehicle B.1.1. Type,3.       Furgoneta,3,       Furgoneta,Van
+V5B11TIPO1,Vehículo 5. B.1.1. Tipo,5. Vehicle B.1.1. Type,4.       Camión,4,       Camión,Truck
+V5B11TIPO1,Vehículo 5. B.1.1. Tipo,5. Vehicle B.1.1. Type,5.     Otro,5,Otro,Other
+V5B12CARB1,Vehículo 5. B.1.1. Carburante,5. Vehicle B.1.1. Fuel,1.       Híbrido,1,       Híbrido,Hybrid
+V5B12CARB1,Vehículo 5. B.1.1. Carburante,5. Vehicle B.1.1. Fuel,2.       Eléctrico,2,       Eléctrico,Electric
+V5B12CARB1,Vehículo 5. B.1.1. Carburante,5. Vehicle B.1.1. Fuel,"3.       Otro (gasolina, diesel, etc.)",3,"       Otro (gasolina, diesel, etc.)","Other (gasoline, diesel, etc.)"
+V5B13EST1,Vehículo 5. B.1.1. Estacionamiento residencia,5. Vehicle B.1.1. parking residence,"1.     En la calle, libre no regulado",1,"     En la calle, libre no regulado","On the street, free unregulated"
+V5B13EST1,Vehículo 5. B.1.1. Estacionamiento residencia,5. Vehicle B.1.1. parking residence,"2.     En la calle, libre regulado (SER, ORA, zona azul, zona verde)",2,"     En la calle, libre regulado (SER, ORA, zona azul, zona verde)","On the street, free regulated (SER, ORA, blue, green area)"
+V5B13EST1,Vehículo 5. B.1.1. Estacionamiento residencia,5. Vehicle B.1.1. parking residence,3.     Aparcamiento propio,3,     Aparcamiento propio,own parking
+V5B13EST1,Vehículo 5. B.1.1. Estacionamiento residencia,5. Vehicle B.1.1. parking residence,4.     Parking residentes,4,     Parking residentes,Parking residents
+V5B13EST1,Vehículo 5. B.1.1. Estacionamiento residencia,5. Vehicle B.1.1. parking residence,5.     Alquilado,5,     Alquilado,Rented
+V5B13EST1,Vehículo 5. B.1.1. Estacionamiento residencia,5. Vehicle B.1.1. parking residence,6.     Plaza reservada a minusválidos,6,     Plaza reservada a minusválidos,Space reserved for the disabled
+V5B13EST1,Vehículo 5. B.1.1. Estacionamiento residencia,5. Vehicle B.1.1. parking residence,7.     Otros,7,     Otros,Others
+N_MIEMBROS_POR_HOGAR,Nº de miembros por hogar,Number of members per household,,,,
+N_VIAJES_POR_HOGAR,Nº de viajes por hogar,Number of trips per household,,,,
+N_VIAJES_POR_HOGAR,Nº de viajes por hogar,Number of trips per household,,,,
+N_VIAJES_POR_HOGAR,Nº de viajes por hogar,Number of trips per household,,,,
+ID_HOGAR,Identificador del hogar,Home ID,,,,
+ID_IND,Identificador del individuo,The individual identifier,,,,
+C2SEXO,Sexo,Sex,1. Hombre,1,Hombre,Man
+C2SEXO,Sexo,Sex,2. Mujer,2,Mujer,Woman
+EDAD_FIN,Edad en 2018,Age in 2018,,,,
+ELE_G_POND,Elevador de individuos,Lift individuals,,,,
+C4NAC,¿Tiene usted la nacionalidad española?,Do you have the Spanish nationality?,1. Si,1,Si,Yes
+C4NAC,¿Tiene usted la nacionalidad española?,Do you have the Spanish nationality?,2. No,2,No,Not
+C5CAM,¿Está usted empadronado en la Comunidad de Madrid?,Are you registered in the Community of Madrid?,1. Si,1,Si,Yes
+C5CAM,¿Está usted empadronado en la Comunidad de Madrid?,Are you registered in the Community of Madrid?,2. No,2,No,Not
+C5CAM,¿Está usted empadronado en la Comunidad de Madrid?,Are you registered in the Community of Madrid?,3. Ns/Nc,3,Ns/Nc,Ns / Nc
+C6CARNE,"¿Tiene usted carné de conducir?, ¿de qué tipo?","Do you have a driving license I ?, what kind?",1. No tiene,1,No tiene,Does not have
+C6CARNE,"¿Tiene usted carné de conducir?, ¿de qué tipo?","Do you have a driving license I ?, what kind?",2. Sólo licencia de ciclomotor,2,Sólo licencia de ciclomotor,Only moped license
+C6CARNE,"¿Tiene usted carné de conducir?, ¿de qué tipo?","Do you have a driving license I ?, what kind?",3. Carné de moto A1/A2,3,Carné de moto A1/A2,Motorcycle license A1 / A2
+C6CARNE,"¿Tiene usted carné de conducir?, ¿de qué tipo?","Do you have a driving license I ?, what kind?","4. Carné de coche (B) o superior  (C, D ó E)",4," Carné de coche (B) o superior  (C, D ó E)"," Car license (B) or higher (C, D or E)"
+C6CARNE,"¿Tiene usted carné de conducir?, ¿de qué tipo?","Do you have a driving license I ?, what kind?",5. Carné de moto y coche,5,Carné de moto y coche,Motorcycle and car license
+C7ESTUD,¿Cuál es su nivel de estudios?,What is your educational level?,1. Menos que Primaria,1,Menos que Primaria,Unless Primary
+C7ESTUD,¿Cuál es su nivel de estudios?,What is your educational level?,2. Educación Primaria,2,Educación Primaria,Primary education
+C7ESTUD,¿Cuál es su nivel de estudios?,What is your educational level?,3. Primera etapa de Educación Secundaria y similar,3,Primera etapa de Educación Secundaria y similar,First stage of Secondary Education and the like
+C7ESTUD,¿Cuál es su nivel de estudios?,What is your educational level?,4. Segunda etapa de Educación Secundaria y similar,4,Segunda etapa de Educación Secundaria y similar,Second stage of Secondary Education and the like
+C7ESTUD,¿Cuál es su nivel de estudios?,What is your educational level?,5. Educación postsecundaria no superior,5,Educación postsecundaria no superior,Postsecondary education not higher
+C7ESTUD,¿Cuál es su nivel de estudios?,What is your educational level?,6. Enseñanzas de Formación Profesional de grado superior y equivalentes,6,Enseñanzas de Formación Profesional de grado superior y equivalentes,Teaching vocational education degree and equivalent
+C7ESTUD,¿Cuál es su nivel de estudios?,What is your educational level?,7. Grados universitarios/licenciaturas/másteres y enseñanzas de doctorado,7,Grados universitarios/licenciaturas/másteres y enseñanzas de doctorado,University degrees / degrees / masters and doctoral courses
+C8ACTIV,¿Qué actividad principal desarrolla?,What main activity develops?,1. Trabaja,1,Trabaja,working
+C8ACTIV,¿Qué actividad principal desarrolla?,What main activity develops?,2. Trabaja y estudia,2,Trabaja y estudia,Work and study
+C8ACTIV,¿Qué actividad principal desarrolla?,What main activity develops?,3. Jubilado / Retirado/ Pensionista,3,Jubilado / Retirado/ Pensionista,Retired / Retired / Pensioner
+C8ACTIV,¿Qué actividad principal desarrolla?,What main activity develops?,"4. Parado, ha trabajado antes",4," Parado, ha trabajado antes"," Parado, has worked before"
+C8ACTIV,¿Qué actividad principal desarrolla?,What main activity develops?,"5. Parado, busca primer trabajo",5," Parado, busca primer trabajo"," Standing, looking first job"
+C8ACTIV,¿Qué actividad principal desarrolla?,What main activity develops?,6. Estudiante,6,Estudiante,student
+C8ACTIV,¿Qué actividad principal desarrolla?,What main activity develops?,7. Cuidado de familiares,7,Cuidado de familiares,Family Care
+C8ACTIV,¿Qué actividad principal desarrolla?,What main activity develops?,8. Trabajo doméstico no remunerado,8,Trabajo doméstico no remunerado,Unpaid domestic work
+C8ACTIV,¿Qué actividad principal desarrolla?,What main activity develops?,9. Otra situación,9,Otra situación,another situation
+C9PROF,¿Cuál es su actividad profesional?,What is your occupation?,1. Asalariado sector público,1,Asalariado sector público,Public sector wage
+C9PROF,¿Cuál es su actividad profesional?,What is your occupation?,2. Asalariado sector privado,2,Asalariado sector privado,Salaried private sector
+C9PROF,¿Cuál es su actividad profesional?,What is your occupation?,3. Empresario y/o trabajador por cuenta propia,3,Empresario y/o trabajador por cuenta propia,Businessman and / or self-employed
+C9PROF,¿Cuál es su actividad profesional?,What is your occupation?,4. Ayuda en la empresa o negocio familiar,4,Ayuda en la empresa o negocio familiar,Help the company or family business
+C9PROF,¿Cuál es su actividad profesional?,What is your occupation?,5. Otra situación laboral,5,Otra situación laboral,Another labor situation
+C10SECTOR,¿En qué sector trabaja?,What industry do you work?,1. Educación pública y privada,1,Educación pública y privada,public and private education
+C10SECTOR,¿En qué sector trabaja?,What industry do you work?,2. Salud privada o pública y servicios sociales,2,Salud privada o pública y servicios sociales,private or public health and social services
+C10SECTOR,¿En qué sector trabaja?,What industry do you work?,3. Administración pública,3,Administración pública,Public administration
+C10SECTOR,¿En qué sector trabaja?,What industry do you work?,4. Otros Servicios,4,Otros Servicios,Other services
+C10SECTOR,¿En qué sector trabaja?,What industry do you work?,5. Industria,5,Industria,Industry
+C10SECTOR,¿En qué sector trabaja?,What industry do you work?,6. Construcción,6,Construcción,Building
+C10SECTOR,¿En qué sector trabaja?,What industry do you work?,7. Agricultura,7,Agricultura,farming
+C13TARJETA,¿Dispone usted de....?,Do you has ....?,1.   Tarjeta de Transporte Público TTP,1,   Tarjeta de Transporte Público TTP,TTP Public Transportation Card
+C13TARJETA,¿Dispone usted de....?,Do you has ....?,2.   Tarjeta MULTI,2,   Tarjeta MULTI,MULTI card
+C13TARJETA,¿Dispone usted de....?,Do you has ....?,3.   Ambas tarjetas,3,   Ambas tarjetas,both cards
+C13TARJETA,¿Dispone usted de....?,Do you has ....?,4.   Ninguna,4,Ninguna,None
+C14ABONO,¿Tiene cargado el Abono actualmente?,Do you have loaded the Abono now?,1. Si,1,Si,Yes
+C14ABONO,¿Tiene cargado el Abono actualmente?,Do you have loaded the Abono now?,2. No,2,No,Not
+DDIA,Día de referencia,Reference day,,,,
+DMES,Mes del día de referencia,Day Month Reference,,,,
+DANNO,Año del día de referencia,Year of the reference date,,,,
+DIASEM,Día de la semana de referencia,Day of the reference week,1. Lunes,1,Lunes,Monday
+DIASEM,Día de la semana de referencia,Day of the reference week,2. Martes,2,Martes,Tuesday
+DIASEM,Día de la semana de referencia,Day of the reference week,3. Miércoles,3,Miércoles,Wednesday
+DIASEM,Día de la semana de referencia,Day of the reference week,4. Jueves,4,Jueves,Thursday
+DNOVIAJO,No realizó desplazamiento debido a:,It made no displacement due to:,1. Incapacidad física/psíquica permanente,1,Incapacidad física/psíquica permanente,physical disability / permanent psychic
+DNOVIAJO,No realizó desplazamiento debido a:,It made no displacement due to:,2. Incapacidad física/psíquica provisional,2,Incapacidad física/psíquica provisional,Inability physical / mental provisional
+DNOVIAJO,No realizó desplazamiento debido a:,It made no displacement due to:,3. Mal tiempo,3,Mal tiempo,Bad weather
+DNOVIAJO,No realizó desplazamiento debido a:,It made no displacement due to:,4. Por edad,4,Por edad,By age
+DNOVIAJO,No realizó desplazamiento debido a:,It made no displacement due to:,5. Necesidad cuidar otra persona,5,Necesidad cuidar otra persona,Need someone else take care
+DNOVIAJO,No realizó desplazamiento debido a:,It made no displacement due to:,6. Ausencia de Madrid,6,Ausencia de Madrid,Absence of Madrid
+DNOVIAJO,No realizó desplazamiento debido a:,It made no displacement due to:,7. Trabaja en casa,7,Trabaja en casa,Work at home
+DNOVIAJO,No realizó desplazamiento debido a:,It made no displacement due to:,8. Vacaciones /día libre,8,Vacaciones /día libre,Vacation / day
+DNOVIAJO,No realizó desplazamiento debido a:,It made no displacement due to:,9. Otros motivos,9,Otros motivos,Other motives
+C11ZT1259,Centro de trabajo. Zona 1259,Workplace. 1259 area,,,,
+C12ZT1259,Centro de estudios. Zona 1259,Study center. 1259 area,,,,
+CPMR,¿Tiene algún tipo de movilidad reducida?,Do you have any kind of mobility?,1. Si,1,Si,Yes
+CPMR,¿Tiene algún tipo de movilidad reducida?,Do you have any kind of mobility?,2. No,2,No,Not
+TIPO_ENCUESTA,¿Tiene algún tipo de movilidad reducida?,Do you have any kind of mobility?,,,,
+TIPO_ENCUESTA,¿Tiene algún tipo de movilidad reducida?,Do you have any kind of mobility?,,,,
+TIPO_ENCUESTA,¿Tiene algún tipo de movilidad reducida?,Do you have any kind of mobility?,,,,
+ID_HOGAR,Identificador del hogar,Home ID,,,,
+ID_IND,Identificador del individuo,The individual identifier,,,,
+ID_VIAJE,Identificador del viaje,ID journey,,,,
+VORI,Origen. Motivo de origen,Origin. Reason of origin,1. Casa,1,Casa,House
+VORI,Origen. Motivo de origen,Origin. Reason of origin,2. Trabajo,2,Trabajo,Job
+VORI,Origen. Motivo de origen,Origin. Reason of origin,3. Gestión de trabajo,3,Gestión de trabajo,Work Management
+VORI,Origen. Motivo de origen,Origin. Reason of origin,4. Estudio,4,Estudio,study
+VORI,Origen. Motivo de origen,Origin. Reason of origin,5. Compras,5,Compras,Purchases
+VORI,Origen. Motivo de origen,Origin. Reason of origin,6. Médico,6,Médico,Doctor
+VORI,Origen. Motivo de origen,Origin. Reason of origin,7. Acompañamiento a otra persona,7,Acompañamiento a otra persona,Accompanying another person
+VORI,Origen. Motivo de origen,Origin. Reason of origin,8. Ocio,8,Ocio,Leisure
+VORI,Origen. Motivo de origen,Origin. Reason of origin,9. Deporte/ dar un paseo,9,Deporte/ dar un paseo,Sport / stroll
+VORI,Origen. Motivo de origen,Origin. Reason of origin,10. Asunto personal,10,Asunto personal,Personal matter
+VORI,Origen. Motivo de origen,Origin. Reason of origin,11. Otro domicilio,11,Otro domicilio,another address
+VORI,Origen. Motivo de origen,Origin. Reason of origin,12. Otros,12,Otros,Others
+VORIHORAINI,Origen. Hora de inicio,Origin. Start Time,,,,
+VDES,Destino. Motivo de destino,Destination. Reason destination,1. Casa,1,Casa,House
+VDES,Destino. Motivo de destino,Destination. Reason destination,2. Trabajo,2,Trabajo,Job
+VDES,Destino. Motivo de destino,Destination. Reason destination,3. Gestión de trabajo,3,Gestión de trabajo,Work Management
+VDES,Destino. Motivo de destino,Destination. Reason destination,4. Estudio,4,Estudio,study
+VDES,Destino. Motivo de destino,Destination. Reason destination,5. Compras,5,Compras,Purchases
+VDES,Destino. Motivo de destino,Destination. Reason destination,6. Médico,6,Médico,Doctor
+VDES,Destino. Motivo de destino,Destination. Reason destination,7. Acompañamiento a otra persona,7,Acompañamiento a otra persona,Accompanying another person
+VDES,Destino. Motivo de destino,Destination. Reason destination,8. Ocio,8,Ocio,Leisure
+VDES,Destino. Motivo de destino,Destination. Reason destination,9. Deporte/ dar un paseo,9,Deporte/ dar un paseo,Sport / stroll
+VDES,Destino. Motivo de destino,Destination. Reason destination,10. Asunto personal,10,Asunto personal,Personal matter
+VDES,Destino. Motivo de destino,Destination. Reason destination,11. Otro domicilio,11,Otro domicilio,another address
+VDES,Destino. Motivo de destino,Destination. Reason destination,12. Otros,12,Otros,Others
+VDESHORAFIN,Destino. Hora llegada,Destination. arrival time,,,,
+VFRECUENCIA,Frecuencia del viaje,Frequency of travel,"1. A diario, de lunes a viernes",1," A diario, de lunes a viernes"," Every day, Monday through Friday"
+VFRECUENCIA,Frecuencia del viaje,Frequency of travel,2. Entre 2 y 4 días laborables por semana,2,Entre 2 y 4 días laborables por semana,2 to 4 working days per week
+VFRECUENCIA,Frecuencia del viaje,Frequency of travel,3. Menos de dos días laborables por semana,3,Menos de dos días laborables por semana,Less than two working days per week
+VFRECUENCIA,Frecuencia del viaje,Frequency of travel,4. Alguna vez,4,Alguna vez,Ever
+VFRECUENCIA,Frecuencia del viaje,Frequency of travel,5. Es la primera vez que hago el viaje,5,Es la primera vez que hago el viaje,It is the first time I make the trip
+VVEHICULO,¿Dispone de vehículo particular para hacer este viaje?,Does particular vehicle to make this trip?,1. Si,1,Si,Yes
+VVEHICULO,¿Dispone de vehículo particular para hacer este viaje?,Does particular vehicle to make this trip?,2. No,2,No,Not
+VNOPRIVADO,¿Por qué no ha utilizado el coche conductor en todo su viaje?,Why you have not used the car driver throughout your trip?,1.    Es más caro,1,    Es más caro,It is more expensive
+VNOPRIVADO,¿Por qué no ha utilizado el coche conductor en todo su viaje?,Why you have not used the car driver throughout your trip?,2.    Dificultad de aparcamiento,2,    Dificultad de aparcamiento,Difficulty parking
+VNOPRIVADO,¿Por qué no ha utilizado el coche conductor en todo su viaje?,Why you have not used the car driver throughout your trip?,3.    Tardo más,3,    Tardo más,It takes me more
+VNOPRIVADO,¿Por qué no ha utilizado el coche conductor en todo su viaje?,Why you have not used the car driver throughout your trip?,4.    Evitar el atasco,4,    Evitar el atasco,Avoid clogging
+VNOPRIVADO,¿Por qué no ha utilizado el coche conductor en todo su viaje?,Why you have not used the car driver throughout your trip?,5.    Más incómodo,5,    Más incómodo,More uncomfortable
+VNOPRIVADO,¿Por qué no ha utilizado el coche conductor en todo su viaje?,Why you have not used the car driver throughout your trip?,6.    No me gusta el coche,6,    No me gusta el coche,I do not like the car
+VNOPRIVADO,¿Por qué no ha utilizado el coche conductor en todo su viaje?,Why you have not used the car driver throughout your trip?,7.    Contamino menos,7,    Contamino menos,pollute less
+VNOPRIVADO,¿Por qué no ha utilizado el coche conductor en todo su viaje?,Why you have not used the car driver throughout your trip?,8.    Otros,8,    Otros,Others
+VNOPUBLICO,¿Por qué no ha utilizado el transporte público en este viaje (cualquiera de sus etapas)?,Why you have not used public transport on this trip (any stage)?,1.    Mala combinación del tte.público,1,    Mala combinación del tte.público,Bad combination of the tte.público
+VNOPUBLICO,¿Por qué no ha utilizado el transporte público en este viaje (cualquiera de sus etapas)?,Why you have not used public transport on this trip (any stage)?,2.    No hay servicio público,2,    No hay servicio público,No public service
+VNOPUBLICO,¿Por qué no ha utilizado el transporte público en este viaje (cualquiera de sus etapas)?,Why you have not used public transport on this trip (any stage)?,3.    Por desconocimiento/falta de información,3,    Por desconocimiento/falta de información,Ignorance / lack of information
+VNOPUBLICO,¿Por qué no ha utilizado el transporte público en este viaje (cualquiera de sus etapas)?,Why you have not used public transport on this trip (any stage)?,4.    Necesito mi vehículo para trabajar o gestión personal,4,    Necesito mi vehículo para trabajar o gestión personal,I need my car to work or personal management
+VNOPUBLICO,¿Por qué no ha utilizado el transporte público en este viaje (cualquiera de sus etapas)?,Why you have not used public transport on this trip (any stage)?,5.    Tardo más,5,    Tardo más,It takes me more
+VNOPUBLICO,¿Por qué no ha utilizado el transporte público en este viaje (cualquiera de sus etapas)?,Why you have not used public transport on this trip (any stage)?,6.    Es más caro,6,    Es más caro,It is more expensive
+VNOPUBLICO,¿Por qué no ha utilizado el transporte público en este viaje (cualquiera de sus etapas)?,Why you have not used public transport on this trip (any stage)?,7.    Más incómodo,7,    Más incómodo,More uncomfortable
+VNOPUBLICO,¿Por qué no ha utilizado el transporte público en este viaje (cualquiera de sus etapas)?,Why you have not used public transport on this trip (any stage)?,8.    No me gusta el tte. público,8,    No me gusta el tte. público,I do not like tte. public
+VNOPUBLICO,¿Por qué no ha utilizado el transporte público en este viaje (cualquiera de sus etapas)?,Why you have not used public transport on this trip (any stage)?,9.    Mi situación personal condiciona esta elección modal,9,Mi situación personal condiciona esta elección modal,My personal situation determines the modal choice
+VNOPUBLICO,¿Por qué no ha utilizado el transporte público en este viaje (cualquiera de sus etapas)?,Why you have not used public transport on this trip (any stage)?,10. El destino está muy cerca,10,El destino está muy cerca,The destination is very close
+VNOPUBLICO,¿Por qué no ha utilizado el transporte público en este viaje (cualquiera de sus etapas)?,Why you have not used public transport on this trip (any stage)?,11. Prefiero ir andando / en bicicleta,11,Prefiero ir andando / en bicicleta,I prefer to walk / bike
+VNOPUBLICO,¿Por qué no ha utilizado el transporte público en este viaje (cualquiera de sus etapas)?,Why you have not used public transport on this trip (any stage)?,12. Otros,12, Otros,Others
+VORIZT1259,Origen. Zona 1259,Origin. 1259 area,,,,
+VDESZT1259,Destino. Zona 1259,Destination. 1259 area,,,,
+TIPO_ENCUESTA,Tipo de encuesta,Type of survey,,,,
+N_ETAPAS_POR_VIAJE,Nº de etapas por viaje,Number of stages per trip,,,,
+MOTIVO_PRIORITARIO,Motivo prioritario del viaje,Priority reason for the trip,1. Casa,1,Casa,House
+MOTIVO_PRIORITARIO,Motivo prioritario del viaje,Priority reason for the trip,2. Trabajo,2,Trabajo,Job
+MOTIVO_PRIORITARIO,Motivo prioritario del viaje,Priority reason for the trip,3. Gestión de trabajo,3,Gestión de trabajo,Work Management
+MOTIVO_PRIORITARIO,Motivo prioritario del viaje,Priority reason for the trip,4. Estudio,4,Estudio,study
+MOTIVO_PRIORITARIO,Motivo prioritario del viaje,Priority reason for the trip,5. Compras,5,Compras,Purchases
+MOTIVO_PRIORITARIO,Motivo prioritario del viaje,Priority reason for the trip,6. Médico,6,Médico,Doctor
+MOTIVO_PRIORITARIO,Motivo prioritario del viaje,Priority reason for the trip,7. Acompañamiento a otra persona,7,Acompañamiento a otra persona,Accompanying another person
+MOTIVO_PRIORITARIO,Motivo prioritario del viaje,Priority reason for the trip,8. Ocio,8,Ocio,Leisure
+MOTIVO_PRIORITARIO,Motivo prioritario del viaje,Priority reason for the trip,9. Deporte/ dar un paseo,9,Deporte/ dar un paseo,Sport / stroll
+MOTIVO_PRIORITARIO,Motivo prioritario del viaje,Priority reason for the trip,10. Asunto personal,10,Asunto personal,Personal matter
+MOTIVO_PRIORITARIO,Motivo prioritario del viaje,Priority reason for the trip,11. Otro domicilio,11,Otro domicilio,another address
+MOTIVO_PRIORITARIO,Motivo prioritario del viaje,Priority reason for the trip,12. Otros,12,Otros,Others
+DISTANCIA_VIAJE,"Distancia, en kilometros, del origen al destino del viaje","Distance, in kilometers, from the source to the destination of the trip",,,,
+MODO_PRIORITARIO,"Distancia, en kilometros, del origen al destino del viaje","Distance, in kilometers, from the source to the destination of the trip",1 '1. Renfe Cercanías ',1,Renfe Cercanías ',Cercanías'
+MODO_PRIORITARIO,"Distancia, en kilometros, del origen al destino del viaje","Distance, in kilometers, from the source to the destination of the trip",2 '2. Autobus interurbano ',2,Autobus interurbano ',intercity bus'
+MODO_PRIORITARIO,"Distancia, en kilometros, del origen al destino del viaje","Distance, in kilometers, from the source to the destination of the trip",3 '3. Autobus urbano otro municipio ',3,Autobus urbano otro municipio ',Urban bus another municipality '
+MODO_PRIORITARIO,"Distancia, en kilometros, del origen al destino del viaje","Distance, in kilometers, from the source to the destination of the trip",4 '4. Metro ',4,Metro ',Meter '
+MODO_PRIORITARIO,"Distancia, en kilometros, del origen al destino del viaje","Distance, in kilometers, from the source to the destination of the trip",5 '5. Metro ligero/tranvía ',5,Metro ligero/tranvía ',LRT / tram '
+MODO_PRIORITARIO,"Distancia, en kilometros, del origen al destino del viaje","Distance, in kilometers, from the source to the destination of the trip",6 '6. Autobus urbano Madrid EMT ',6,Autobus urbano Madrid EMT ',Urban bus EMT Madrid '
+MODO_PRIORITARIO,"Distancia, en kilometros, del origen al destino del viaje","Distance, in kilometers, from the source to the destination of the trip",7 '7. Resto renfe ',7,Resto renfe ',Rest renfe '
+MODO_PRIORITARIO,"Distancia, en kilometros, del origen al destino del viaje","Distance, in kilometers, from the source to the destination of the trip",8 '8. Autobus discrecional ',8,Autobus discrecional ',discretionary bus'
+MODO_PRIORITARIO,"Distancia, en kilometros, del origen al destino del viaje","Distance, in kilometers, from the source to the destination of the trip",9 '9. Autobus de largo recorrido ',9,Autobus de largo recorrido ',Bus long haul '
+MODO_PRIORITARIO,"Distancia, en kilometros, del origen al destino del viaje","Distance, in kilometers, from the source to the destination of the trip",10 '10. Taxi ',10,Taxi ',Cab '
+MODO_PRIORITARIO,"Distancia, en kilometros, del origen al destino del viaje","Distance, in kilometers, from the source to the destination of the trip",11 '11. Coche conductor particular',11,Coche conductor particular',particularly car driver '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,12 '12. Coche conductor empresa',12,Coche conductor empresa',Company car driver '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,13 '13. Coche conductor alquiler sin conductor',13,Coche conductor alquiler sin conductor',car driver self-drive '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,14 '14. Coche pasajero particular',14,Coche pasajero particular',particularly passenger car '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,15 '15. Coche pasajero empresa',15,Coche pasajero empresa',passenger car business'
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,16 '16. Coche pasajero alquiler con conductor',16,Coche pasajero alquiler con conductor',Passenger car rental with driver '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,17 '17. Moto/ciclomotor particular',17,Moto/ciclomotor particular',Moto / moped including '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,18 '18. Moto/ciclomotor publica',18,Moto/ciclomotor publica',Scooter / moped publishes'
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,19 '19. Moto/ciclomotor empresa',19,Moto/ciclomotor empresa',Scooter / moped company '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,20 '20. Bicicleta particular',20,Bicicleta particular',Particularly bike '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,21 '21. Bicicleta publica',21,Bicicleta publica',Bicycle publishes'
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,22 '22. Bicicleta empresa',22,Bicicleta empresa',Bicycle company '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,23 '23. Otros ',23,Otros ',Others '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,24 '24. Andando/pie ',24,Andando/pie ',Walking / standing '
+ELE_G_POND_ESC2,Elevador de viajes,Travel lift,,,,
+ELE_G_POND_ESC2,Elevador de viajes,Travel lift,,,,
+ELE_G_POND_ESC2,Elevador de viajes,Travel lift,,,,
+ID_HOGAR,Identificador del hogar,Home ID,,,,
+ID_IND,Identificador del individuo,The individual identifier,,,,
+ID_VIAJE,Identificador del viaje,ID journey,,,,
+ID_ETAPA,Identificador de la etapa,Identifier stage,,,,
+EMODO,Modo de transporte de la etapa,Transport mode stage,1.  Andando/ pie,1,  Andando/ pie,Walking / ft
+EMODO,Modo de transporte de la etapa,Transport mode stage,2.  Bicicleta,2,  Bicicleta,Bicycle
+EMODO,Modo de transporte de la etapa,Transport mode stage,3.  Moto/ciclomotor,3,  Moto/ciclomotor,Scooter / moped
+EMODO,Modo de transporte de la etapa,Transport mode stage,4.  Metro,4,  Metro,Meter
+EMODO,Modo de transporte de la etapa,Transport mode stage,5.  Renfe Cercanías,5,  Renfe Cercanías,RENFE
+EMODO,Modo de transporte de la etapa,Transport mode stage,6.  Autobús urbano Madrid (EMT),6,  Autobús urbano Madrid (EMT),City bus Madrid (EMT)
+EMODO,Modo de transporte de la etapa,Transport mode stage,7.  Resto Renfe,7,  Resto Renfe,Renfe rest
+EMODO,Modo de transporte de la etapa,Transport mode stage,8.  Autobús interurbano,8,  Autobús interurbano,intercity bus
+EMODO,Modo de transporte de la etapa,Transport mode stage,9.  Autobús urbano otro municipio,9,  Autobús urbano otro municipio,City bus another municipality
+EMODO,Modo de transporte de la etapa,Transport mode stage,10.  Metro ligero/tranvía,10,  Metro ligero/tranvía,Light rail / tram
+EMODO,Modo de transporte de la etapa,Transport mode stage,11.   Autobús discrecional,11,   Autobús discrecional,bus discretionary
+EMODO,Modo de transporte de la etapa,Transport mode stage,12.  Autobús de largo recorrido,12,  Autobús de largo recorrido,Long bus tour
+EMODO,Modo de transporte de la etapa,Transport mode stage,13.  Coche conductor,13,  Coche conductor,car driver
+EMODO,Modo de transporte de la etapa,Transport mode stage,14.  Coche pasajero,14,  Coche pasajero,passenger car
+EMODO,Modo de transporte de la etapa,Transport mode stage,15.  Taxi,15,  Taxi,Cab
+EMODO,Modo de transporte de la etapa,Transport mode stage,16.  Otros,16,Otros,Others
+EMODO1,Modo de transporte de la etapa. Bicicleta o moto/ciclomotor/Coche conductor o pasajero,Transport mode stage. Bicycle or motorcycle / moped / car driver or passenger,1. Particular,1,Particular,Particular
+EMODO1,Modo de transporte de la etapa. Bicicleta o moto/ciclomotor/Coche conductor o pasajero,Transport mode stage. Bicycle or motorcycle / moped / car driver or passenger,2. Pública(Bicimad y similares),2,Pública(Bicimad y similares),Public (Bicimad and the like)
+EMODO1,Modo de transporte de la etapa. Bicicleta o moto/ciclomotor/Coche conductor o pasajero,Transport mode stage. Bicycle or motorcycle / moped / car driver or passenger,3. De alquiler,3,De alquiler,Rental
+EMODO1,Modo de transporte de la etapa. Bicicleta o moto/ciclomotor/Coche conductor o pasajero,Transport mode stage. Bicycle or motorcycle / moped / car driver or passenger,4. Particular,4,Particular,Particular
+EMODO1,Modo de transporte de la etapa. Bicicleta o moto/ciclomotor/Coche conductor o pasajero,Transport mode stage. Bicycle or motorcycle / moped / car driver or passenger,5. Empresa,5,Empresa,Business
+EMODO1,Modo de transporte de la etapa. Bicicleta o moto/ciclomotor/Coche conductor o pasajero,Transport mode stage. Bicycle or motorcycle / moped / car driver or passenger,6. Alquiler con conductor(Cabify/Uber/Otros),6,Alquiler con conductor(Cabify/Uber/Otros),Rental conductor (Cabify / Uber / Other)
+EMODO1,Modo de transporte de la etapa. Bicicleta o moto/ciclomotor/Coche conductor o pasajero,Transport mode stage. Bicycle or motorcycle / moped / car driver or passenger,7. Alquiler sin conductor (Car2go/Emov/Otros),7,Alquiler sin conductor (Car2go/Emov/Otros),Self-drive (Car2go / Tumblr / Other)
+MODO_PRIORITARIO,Modo de transporte de la etapa. Bicicleta o moto/ciclomotor/Coche conductor o pasajero,Transport mode stage. Bicycle or motorcycle / moped / car driver or passenger,1 '1. Renfe Cercanías ',1,Renfe Cercanías ',Cercanías'
+MODO_PRIORITARIO,Modo de transporte de la etapa. Bicicleta o moto/ciclomotor/Coche conductor o pasajero,Transport mode stage. Bicycle or motorcycle / moped / car driver or passenger,2 '2. Autobus interurbano ',2,Autobus interurbano ',intercity bus'
+MODO_PRIORITARIO,Modo de transporte de la etapa. Bicicleta o moto/ciclomotor/Coche conductor o pasajero,Transport mode stage. Bicycle or motorcycle / moped / car driver or passenger,3 '3. Autobus urbano otro municipio ',3,Autobus urbano otro municipio ',Urban bus another municipality '
+MODO_PRIORITARIO,Modo de transporte de la etapa. Bicicleta o moto/ciclomotor/Coche conductor o pasajero,Transport mode stage. Bicycle or motorcycle / moped / car driver or passenger,4 '4. Metro ',4,Metro ',Meter '
+MODO_PRIORITARIO,Modo de transporte de la etapa. Bicicleta o moto/ciclomotor/Coche conductor o pasajero,Transport mode stage. Bicycle or motorcycle / moped / car driver or passenger,5 '5. Metro ligero/tranvía ',5,Metro ligero/tranvía ',LRT / tram '
+MODO_PRIORITARIO,Modo de transporte de la etapa. Bicicleta o moto/ciclomotor/Coche conductor o pasajero,Transport mode stage. Bicycle or motorcycle / moped / car driver or passenger,6 '6. Autobus urbano Madrid EMT ',6,Autobus urbano Madrid EMT ',Urban bus EMT Madrid '
+MODO_PRIORITARIO,Modo de transporte de la etapa. Bicicleta o moto/ciclomotor/Coche conductor o pasajero,Transport mode stage. Bicycle or motorcycle / moped / car driver or passenger,7 '7. Resto renfe ',7,Resto renfe ',Rest renfe '
+MODO_PRIORITARIO,Modo de transporte de la etapa. Bicicleta o moto/ciclomotor/Coche conductor o pasajero,Transport mode stage. Bicycle or motorcycle / moped / car driver or passenger,8 '8. Autobus discrecional ',8,Autobus discrecional ',discretionary bus'
+MODO_PRIORITARIO,Modo de transporte de la etapa. Bicicleta o moto/ciclomotor/Coche conductor o pasajero,Transport mode stage. Bicycle or motorcycle / moped / car driver or passenger,9 '9. Autobus de largo recorrido ',9,Autobus de largo recorrido ',Bus long haul '
+MODO_PRIORITARIO,Modo de transporte de la etapa. Bicicleta o moto/ciclomotor/Coche conductor o pasajero,Transport mode stage. Bicycle or motorcycle / moped / car driver or passenger,10 '10. Taxi ',10,Taxi ',Cab '
+MODO_PRIORITARIO,Modo de transporte de la etapa. Bicicleta o moto/ciclomotor/Coche conductor o pasajero,Transport mode stage. Bicycle or motorcycle / moped / car driver or passenger,11 '11. Coche conductor particular',11,Coche conductor particular',particularly car driver '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,12 '12. Coche conductor empresa',12,Coche conductor empresa',Company car driver '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,13 '13. Coche conductor alquiler sin conductor',13,Coche conductor alquiler sin conductor',car driver self-drive '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,14 '14. Coche pasajero particular',14,Coche pasajero particular',particularly passenger car '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,15 '15. Coche pasajero empresa',15,Coche pasajero empresa',passenger car business'
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,16 '16. Coche pasajero alquiler con conductor',16,Coche pasajero alquiler con conductor',Passenger car rental with driver '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,17 '17. Moto/ciclomotor particular',17,Moto/ciclomotor particular',Moto / moped including '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,18 '18. Moto/ciclomotor publica',18,Moto/ciclomotor publica',Scooter / moped publishes'
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,19 '19. Moto/ciclomotor empresa',19,Moto/ciclomotor empresa',Scooter / moped company '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,20 '20. Bicicleta particular',20,Bicicleta particular',Particularly bike '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,21 '21. Bicicleta publica',21,Bicicleta publica',Bicycle publishes'
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,22 '22. Bicicleta empresa',22,Bicicleta empresa',Bicycle company '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,23 '23. Otros ',23,Otros ',Others '
+MODO_PRIORITARIO,Modo prioritario del viaje,Priority mode of travel,24 '24. Andando/pie ',24,Andando/pie ',Walking / standing '
+MODO,Modo prioritario del viaje,Priority mode of travel,1 '1. Andando/pie ',1,Andando/pie ',Walking / standing '
+MODO,Modo prioritario del viaje,Priority mode of travel,2 '2. Bicicleta particular',2,Bicicleta particular',Particularly bike '
+MODO,Modo prioritario del viaje,Priority mode of travel,3 '3. Bicicleta publica',3,Bicicleta publica',Bicycle publishes'
+MODO,Modo prioritario del viaje,Priority mode of travel,4 '4. Bicicleta empresa',4,Bicicleta empresa',Bicycle company '
+MODO,Modo prioritario del viaje,Priority mode of travel,5 '5. Moto/ciclomotor particular',5,Moto/ciclomotor particular',Moto / moped including '
+MODO,Modo prioritario del viaje,Priority mode of travel,6 '6. Moto/ciclomotor publica',6,Moto/ciclomotor publica',Scooter / moped publishes'
+MODO,Modo prioritario del viaje,Priority mode of travel,7 '7. Moto/ciclomotor empresa',7,Moto/ciclomotor empresa',Scooter / moped company '
+MODO,Modo prioritario del viaje,Priority mode of travel,8 '8. Metro ',8,Metro ',Meter '
+MODO,Modo prioritario del viaje,Priority mode of travel,9 '9. Renfe Cercanías ',9,Renfe Cercanías ',Cercanías'
+MODO,Modo prioritario del viaje,Priority mode of travel,10 '10. Autobus urbano Madrid EMT ',10,Autobus urbano Madrid EMT ',Urban bus EMT Madrid '
+MODO,Modo prioritario del viaje,Priority mode of travel,11 '11. Resto renfe ',11,Resto renfe ',Rest renfe '
+MODO,"Modo de transporte de la etapa, recodificado. ","Mode transport step, recoded.",12 '12. Autobus interurbano ',12,Autobus interurbano ',intercity bus'
+MODO,"Modo de transporte de la etapa, recodificado. ","Mode transport step, recoded.",13 '13. Autobus urbano otro municipio ',13,Autobus urbano otro municipio ',Urban bus another municipality '
+MODO,"Modo de transporte de la etapa, recodificado. ","Mode transport step, recoded.",14 '14. Metro ligero/tranvía ',14,Metro ligero/tranvía ',LRT / tram '
+MODO,"Modo de transporte de la etapa, recodificado. ","Mode transport step, recoded.",15 '15. Autobus discrecional ',15,Autobus discrecional ',discretionary bus'
+MODO,"Modo de transporte de la etapa, recodificado. ","Mode transport step, recoded.",16 '16. Autobus de largo recorrido ',16,Autobus de largo recorrido ',Bus long haul '
+MODO,"Modo de transporte de la etapa, recodificado. ","Mode transport step, recoded.",17 '17. Coche conductor particular',17,Coche conductor particular',particularly car driver '
+MODO,"Modo de transporte de la etapa, recodificado. ","Mode transport step, recoded.",18 '18. Coche conductor empresa',18,Coche conductor empresa',Company car driver '
+MODO,"Modo de transporte de la etapa, recodificado. ","Mode transport step, recoded.",19 '19. Coche conductor alquiler sin conductor',19,Coche conductor alquiler sin conductor',car driver self-drive '
+MODO,"Modo de transporte de la etapa, recodificado. ","Mode transport step, recoded.",20 '20. Coche pasajero particular',20,Coche pasajero particular',particularly passenger car '
+MODO,"Modo de transporte de la etapa, recodificado. ","Mode transport step, recoded.",21 '21. Coche pasajero empresa',21,Coche pasajero empresa',passenger car business'
+MODO,"Modo de transporte de la etapa, recodificado. ","Mode transport step, recoded.",22 '22. Coche pasajero alquiler con conductor',22,Coche pasajero alquiler con conductor',Passenger car rental with driver '
+MODO,"Modo de transporte de la etapa, recodificado. ","Mode transport step, recoded.",23 '23. Taxi ',23,Taxi ',Cab '
+MODO,"Modo de transporte de la etapa, recodificado. ","Mode transport step, recoded.",24 '24. Otros ',24,Otros ',Others '
+ELINEAEMPRESA_ORIGINAL,Línea/Empresa de la etapa,Line / Stage Company,,,,
+ESUBIDA,Estación de subida de la etapa,Station rising step,,,,
+ESUBIDA_cod,Estación de subida de la etapa. Código,Station rising step. Code,,,,
+EBAJADA,Estación de bajada de la etapa,Station downstream stage,,,,
+EBAJADA_cod,Estación de bajada de la etapa. Código,Station downstream stage. Code,,,,
+ETITULO,Título de transporte de la etapa,Title transport step,1.      Billete sencillo,1,      Billete sencillo,One-way ticket
+ETITULO,Título de transporte de la etapa,Title transport step,2.      Billete 10 viajes,2,      Billete 10 viajes,10 trips ticket
+ETITULO,Título de transporte de la etapa,Title transport step,3.      Abono transportes,3,      Abono transportes,Travel Pass
+ETITULO,Título de transporte de la etapa,Title transport step,4.      Tarjeta Azul,4,      Tarjeta Azul,Blue card
+ETITULO,Título de transporte de la etapa,Title transport step,5.      Mensual cercanías Renfe,5,      Mensual cercanías Renfe,Monthly Renfe
+ETITULO,Título de transporte de la etapa,Title transport step,6.      Otros títulos,6,      Otros títulos,Other titles
+EESTACIONA,Estacionamiento,Parking lot,"1.      En la calle, libre no regulado",1,"      En la calle, libre no regulado","On the street, free unregulated"
+EESTACIONA,Estacionamiento,Parking lot,"2.      En la calle, libre regulado ",2,"      En la calle, libre regulado ","On the street, free regulated"
+EESTACIONA,Estacionamiento,Parking lot,"3.      En la calle, regulado (pago anual, reside en esa zona)",3,"      En la calle, regulado (pago anual, reside en esa zona)","On the street, regulated (annual payment, resides in that area)"
+EESTACIONA,Estacionamiento,Parking lot,4.      Aparcamiento propio,4,      Aparcamiento propio,own parking
+EESTACIONA,Estacionamiento,Parking lot,5.      Aparcamiento alquilado,5,      Aparcamiento alquilado,Parking rented
+EESTACIONA,Estacionamiento,Parking lot,6.      Aparcamiento empresa,6,      Aparcamiento empresa,Parking company
+EESTACIONA,Estacionamiento,Parking lot,7.      Aparcamiento público de pago,7,      Aparcamiento público de pago,Public pay parking
+EESTACIONA,Estacionamiento,Parking lot,8.      Plaza reservada minusválidos,8,      Plaza reservada minusválidos,Plaza reserved Disabled
+EESTACIONA,Estacionamiento,Parking lot,9.      Otros,9,      Otros,Others
+EOCUPACION,Ocupación del vehículo,Occupancy vehicle,,,,
+ETDESPH,Tiempo de desplazamiento desde que aparca hasta el punto de destino,Travel time from you park to the point of destination,1 Menos de 5 minutos,,1 Menos de 5 minutos,
+ETDESPH,Tiempo de desplazamiento desde que aparca hasta el punto de destino,Travel time from you park to the point of destination,2 De 5 a 10 minutos,,2 De 5 a 10 minutos,
+ETDESPH,Tiempo de desplazamiento desde que aparca hasta el punto de destino,Travel time from you park to the point of destination,3 Más de 10 minutos,,3 Más de 10 minutos,
+TIPO_ENCUESTA,Tiempo de desplazamiento desde que aparca hasta el punto de destino,Travel time from you park to the point of destination,,,,
+COD_Mun_parada,Código del municipio de parada,Code Municipality stop,,,,
+ELE_G_POND_ESC2,Elevador de viajes,Travel lift,,,,
