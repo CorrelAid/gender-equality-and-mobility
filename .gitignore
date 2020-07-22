@@ -79,6 +79,7 @@ target/
 /data/*/*
 # exception for translated codes
 !data/processed/codes_translated.csv
+!data/processed/english_codes.xlsx
 
 # Mac OS-specific storage files
 .DS_Store
