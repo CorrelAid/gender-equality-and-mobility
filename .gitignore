@@ -77,9 +77,10 @@ target/
 
 # exclude data from source control by default
 /data/*/*
-# exception for translated codes
+# exception for translated codes and model output
 !data/processed/codes_translated.csv
 !data/processed/english_codes.xlsx
+!data/processed/model_data.csv
 
 # Mac OS-specific storage files
 .DS_Store
