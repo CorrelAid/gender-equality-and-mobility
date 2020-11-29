@@ -36,9 +36,9 @@ https://datos.crtm.es/datasets/zonificacionzt84
 
 - create a conda env with the environment.yml file:
 
-    conda env create -f environment.yml
+    `conda env create -f environment.yml`
     
-- run all notebooks on the given order
+- run all notebooks in the given order
     
 ### Notebook overview:
 
