@@ -47,7 +47,9 @@ https://datos.crtm.es/datasets/zonificacionzt84
 - `02_ModelPTspeed.ipynb`: regression model to test if speed differs significantly between genders when controlled for distance
 - `03_public_transport_routing.ipynb`: test speed difference between genders by comparison of pt routing / car routing ratio
 
-Further analyses that are not part of the blog post are stored in `notebooks/initial_exploration`
+- Further analyses that are not part of the blog post are stored in `notebooks/initial_exploration`
+
+- all figures are stored in `reports/figures`
 
 
 Project Organization
