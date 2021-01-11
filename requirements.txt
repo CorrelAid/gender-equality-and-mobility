@@ -1,0 +1,8 @@
+pandas
+geopandas
+matplotlib
+descartes
+xlrd
+scikit-learn
+pydeck
+correlaidmatplotlib

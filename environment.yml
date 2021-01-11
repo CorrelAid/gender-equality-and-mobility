@@ -5,6 +5,7 @@ channels:
 dependencies:
   - ipykernel
   - pandas
+  - nb_conda
   - geopandas
   - matplotlib
   - descartes
