@@ -11,4 +11,7 @@ dependencies:
   - xlrd
   - scikit-learn
   - pydeck
+  - pip
+  - pip:
+    - correlaidmatplotlib
   
