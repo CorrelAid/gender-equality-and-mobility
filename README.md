@@ -3,7 +3,7 @@ gender-equality-and-mobility
 
 # Analysis of gender differences in Madrid mobility data 
 
-See the blog article with the results here: [xxx](LINK)
+See the [blog article about this analysis here](https://correlaid.org/blog/gender_bias_and_mobility/)
 
 ## About the project:
 
@@ -29,7 +29,6 @@ https://datos.crtm.es/datasets/zonificacionzt84
 
 - Can we reproduce the results on gender differences from other studies?
 - Do we find additional differences with an exploratory analysis?
-- How large is the effect and how much of the difference can actually be explained by gender - or other socioeconomic factors (e.g. children, age, education, type of employment - part-time, type of job, distance to workplace)?
 - Can we find evidence that the existing public transport network is more efficient for one gender group?
 
 ## Getting started:
@@ -45,31 +44,8 @@ https://datos.crtm.es/datasets/zonificacionzt84
 - `00_setup.ipynb`: download data and preprocess for further analysis
 - `01_descriptive_analysis.ipynb`: all analyses and plots for descriptive analysis
 - `02_ModelPTspeed.ipynb`: regression model to test if speed differs significantly between genders when controlled for distance
+- `03_blog_plots.ipynb`: graphs produced for the blog post
 
 - Further analyses that are not part of the blog post are stored in `notebooks/initial_exploration`
 
-- all figures are stored in `reports/figures`
-
-
-Project Organization
-------------
-
-    ├── LICENSE
-    ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
-    │
-    │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    │
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── environment.yml   <- The yaml file for reproducing the analysis environment
-
+The styles for the blog post graphs are produced with the [CorrelAid Matplotlib style](https://github.com/CorrelAid/correlaid-matplotlib-style).
